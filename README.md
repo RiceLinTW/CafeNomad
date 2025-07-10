@@ -128,6 +128,8 @@ do {
 
 歡迎提交 Issue 和 Pull Request！
 
+<a href="https://buymeacoffee.com/rice.lin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## 相關連結
 
 - [Cafe Nomad 官方網站](https://cafenomad.tw)
